@@ -1,6 +1,6 @@
 # Computer Evolution
 
-<img width="1532" height="855" alt="image" src="https://github.com/user-attachments/assets/c9dee269-d28e-4326-8eef-3c0161cec93d" />
+<img width="766" height="427.5" alt="image" src="https://github.com/user-attachments/assets/c9dee269-d28e-4326-8eef-3c0161cec93d" />
 
 
 A casual WebGL clicker game developed with Unity for Yandex Games.
